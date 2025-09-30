@@ -1,0 +1,6 @@
+Algebra Basics:
+- Variables represent unknown values.
+- Expressions combine numbers, variables, and operations.
+- To solve linear equations like 2x + 3 = 11, isolate x:
+  2x = 8, so x = 4.
+- Distributive property: a(b + c) = ab + ac.
